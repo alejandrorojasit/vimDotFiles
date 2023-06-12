@@ -1,0 +1,7 @@
+--local status, scheme = pcall(require, "onedark")
+--
+--scheme.setup{
+--  style = 'deep'
+--}
+--
+--vim.cmd[[colorscheme onedark]]

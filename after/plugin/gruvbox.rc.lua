@@ -1,0 +1,9 @@
+-- setup must be called before loading the colorscheme
+--vim.g.gruvbox_baby_telescope_theme = 1
+--vim.g.gruvbox_material_foreground = 'original'
+--vim.g.gruvbox_material_background = 'soft'
+--vim.g.gruvbox_material_enable_bold = 1
+--vim.g.gruvbox_material_enable_italic = 1
+--vim.g.gruvbox_material_better_performance = 1
+--vim.opt.background = 'light'
+--vim.cmd[[colorscheme gruvbox-material]]
